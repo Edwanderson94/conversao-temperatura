@@ -50,6 +50,8 @@ A aplicação é exposta na porta 8080.
 
 Certifique-se de que a porta 8080 esteja liberada no seu ambiente local ou na nuvem.
 
+---
+
 ### 📂 Estrutura do Projeto
 
 ```bash
