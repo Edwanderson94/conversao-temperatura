@@ -45,7 +45,7 @@ docker run -p 8080:8080 conversao-temperatura
 http://localhost:8080
 ```
 
-### 📌 Observações
+## 📌 Observações
 A aplicação é exposta na porta 8080.
 
 Certifique-se de que a porta 8080 esteja liberada no seu ambiente local ou na nuvem.
